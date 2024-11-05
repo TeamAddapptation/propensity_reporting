@@ -33,7 +33,7 @@ function App() {
 				<div className='d-flex vh-100 vw-100'>
 					{/* Sidebar */}
 					<nav className='bg-dark text-white p-3 flex-shrink-0' style={{ width: "250px" }}>
-						<h4 className='text-center'>Dashboard</h4>
+						<h4 className='text-center'>Propensity</h4>
 						<ul className='nav flex-column'>
 							<li className='nav-item'>
 								<Link to='/reporting?page=roi_tracker' className='nav-link text-white'>
